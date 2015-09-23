@@ -6,5 +6,5 @@
 
 The MIT license (Refer to the [LICENSE.md][license] file)
 
-[license]: https://github.com/libgit2/libgit2sharp/blob/master/LICENSE.md
+[license]: https://github.com/mutyda/mutyda-auth-android-example/blob/master/LICENSE.md
 [mutydalib]: https://github.com/mutyda/android-library
